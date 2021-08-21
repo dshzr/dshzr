@@ -1,13 +1,10 @@
 ### Olá! Eu sou o Well 😊
-<div style="display=flex;">
-        <div>
-            <a href="https://github.com/dshzr">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dshzr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-         </div>
-         <div>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshzr&layout=compact&langs_count=7&theme=midnight-purple"/>
-        </div>
-    <div>
+<div> 
+        <a href="https://github.com/dshzr">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dshzr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshzr&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Well-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,4 +23,6 @@
   <a href = "mailto:wellingtonhmt2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellington-santiago-161201201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.twitch.tv/dshzr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+           <img height="30" width="130"  src="https://komarev.com/ghpvc/?username=dshzr&color=red" alt="dshzr" /> 
   </div>
+ 
