@@ -1,4 +1,4 @@
-### Olá! Eu sou o Well 😊
+### Olá! 😊
 <div> 
         <a href="https://github.com/dshzr">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dshzr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
